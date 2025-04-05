@@ -12,9 +12,9 @@ int main()
 {
 string cardNumber;
 
-cout<<"------------------------------------\n"
-    <<"Welcome to the credit card checke\n"
-    <<"------------------------------------"<<endl<<"\n";
+cout<<"--------------------------------------------------------------------------------------------------\n"
+    <<" Welcome to the credit card checker(Note that this program does not store any input information)\n"
+    <<"--------------------------------------------------------------------------------------------------"<<endl<<"\n";
 
     cout<<"Please input your credit card number(e.g 1234567893456789):";
     cin>>cardNumber;
