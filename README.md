@@ -14,7 +14,6 @@ This project implements a credit card validator in C++ that checks the validity 
 
 The validation logic is based on **Luhn’s algorithm**, which is the same algorithm used by most banks and financial institutions to detect simple errors in card numbers during transactions.
 
--
 
 ## 🛠 Features
 
@@ -23,7 +22,6 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
 - Handles both valid and invalid input gracefully
 - Supports common card network formats
 
--
 
 ## 🚀 Getting Started
 
@@ -34,16 +32,16 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
 
 ### 🧪 How to Run
 
-1. Clone the repository:
+***1. Clone the repository***
 
    ```git clone https://github.com/your-username/Credit-card-validator-cpp-version.git```
    
    ```cd Credit-card-validator-cpp-version```
-3. Compile the Program
+***3. Compile the Program***
 
    Use your terminal to compile the source code: ```g++ -std=c++11 -o creditCardValidator creditCardValidator.cpp```
 
-4. Run the Executable
+***4. Run the Executable***
 
    Execute the program: ```./creditCardValidator```
 
@@ -51,7 +49,7 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
 	•	If it’s valid
 	•	Which card network it likely belongs to
 
-🧮 How Luhn’s Algorithm Works: 
+🧮 **How Luhn’s Algorithm Works** 
 - Starting from the right, double every second digit.
 - If the result is greater than 9, subtract 9 from it.
 - Sum all the digits.
