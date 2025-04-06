@@ -1,10 +1,7 @@
-# Credit-card-validator-c++-version-
-
 # Credit Card Validator (C++ Version)
 
 A lightweight and efficient C++ program that validates credit and debit card numbers using the **Luhn algorithm**, a standard checksum formula widely used in the finance industry.
 
----
 
 ## 🧠 Description
 
@@ -17,7 +14,7 @@ This project implements a credit card validator in C++ that checks the validity 
 
 The validation logic is based on **Luhn’s algorithm**, which is the same algorithm used by most banks and financial institutions to detect simple errors in card numbers during transactions.
 
----
+-
 
 ## 🛠 Features
 
