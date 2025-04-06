@@ -47,7 +47,9 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
    Execute the program: ```./creditCardValidator```
 
    You’ll be prompted to input a card number, and the program will determine:
+   
 	•	If it’s valid
+ 
 	•	Which card network it likely belongs to
 
 🧮 **How Luhn’s Algorithm Works** 
