@@ -37,11 +37,12 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
    ```git clone https://github.com/your-username/Credit-card-validator-cpp-version.git```
    
    ```cd Credit-card-validator-cpp-version```
-***3. Compile the Program***
+   
+***2. Compile the Program***
 
    Use your terminal to compile the source code: ```g++ -std=c++11 -o creditCardValidator creditCardValidator.cpp```
 
-***4. Run the Executable***
+***3. Run the Executable***
 
    Execute the program: ```./creditCardValidator```
 
