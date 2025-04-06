@@ -23,7 +23,7 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
 - Handles both valid and invalid input gracefully
 - Supports common card network formats
 
----
+-
 
 ## 🚀 Getting Started
 
