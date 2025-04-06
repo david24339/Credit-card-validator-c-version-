@@ -34,7 +34,7 @@ The validation logic is based on **Luhn’s algorithm**, which is the same algor
 
 ***1. Clone the repository***
 
-```git clone https://github.com/your-username/Credit-card-validator-cpp-version.git```
+```git clone https://github.com/david24339/Credit-card-validator-c-version-.git```
 
 ```cd Credit-card-validator-cpp-version```
 
